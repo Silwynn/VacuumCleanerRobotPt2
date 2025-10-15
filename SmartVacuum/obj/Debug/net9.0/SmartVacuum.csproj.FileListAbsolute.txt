@@ -1,0 +1,29 @@
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\bin\Debug\net9.0\SmartVacuum.exe
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\bin\Debug\net9.0\SmartVacuum.deps.json
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\bin\Debug\net9.0\SmartVacuum.runtimeconfig.json
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\bin\Debug\net9.0\SmartVacuum.dll
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\bin\Debug\net9.0\SmartVacuum.pdb
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\SmartVacuum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\SmartVacuum.AssemblyInfoInputs.cache
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\SmartVacuum.AssemblyInfo.cs
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\SmartVacuum.csproj.CoreCompileInputs.cache
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\SmartVacuum.dll
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\refint\SmartVacuum.dll
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\SmartVacuum.pdb
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\SmartVacuum.genruntimeconfig.cache
+C:\Users\reyti\Desktop\IS\Midterm\SmartVacuum\obj\Debug\net9.0\ref\SmartVacuum.dll
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.sourcelink.json
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.dll
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\refint\SmartVacuum.dll
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.pdb
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\bin\Debug\net9.0\SmartVacuum.exe
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\bin\Debug\net9.0\SmartVacuum.deps.json
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\bin\Debug\net9.0\SmartVacuum.runtimeconfig.json
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\bin\Debug\net9.0\SmartVacuum.dll
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\bin\Debug\net9.0\SmartVacuum.pdb
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\SmartVacuum.genruntimeconfig.cache
+C:\Users\Ryzen\Desktop\mark robocleaner\Vacuum-Cleaner-RobotPt2\SmartVacuum\obj\Debug\net9.0\ref\SmartVacuum.dll
